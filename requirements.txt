@@ -1,0 +1,6 @@
+pinecone-client
+tqdm
+python-dotenv
+requests
+transformers
+torch
